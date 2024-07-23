@@ -2,5 +2,5 @@
 For Internship purpose <br>
 <ol Type="1">
 <li>Simple Calculator
-  <a href="https://vishalrajbhardwaj.github.io/CODSOFT/">Live DEMO </a></li>
+  <a href="http://simple-calculator.free.nf/">Live DEMO </a></li>
 </ol>
