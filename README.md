@@ -1,3 +1,5 @@
 # CODSOFT
-For Internship purpose
-Simple Calculator <a herf="https://vishalrajbhardwaj.github.io/CODSOFT/"> DEMO   </a>
+For Internship purpose <br>
+<ol>
+Simple Calculator <a herf="https://vishalrajbhardwaj.github.io/CODSOFT/"> DEMO </a>
+</ol>
